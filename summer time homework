@@ -1,0 +1,5 @@
+t=int(input("What is the temparature?"))
+if(t<30) :
+ print("Wear jacket and pullover")
+else:
+  print("Wear light clothes")
