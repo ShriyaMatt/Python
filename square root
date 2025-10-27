@@ -1,0 +1,4 @@
+#Hiw to find square root of a number in python
+num=16
+print(num**(0.5))
+num=int
