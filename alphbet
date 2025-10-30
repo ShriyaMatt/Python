@@ -1,0 +1,6 @@
+# Program to check if a given character is an alphabet or not using elif
+char = input("Enter a single character: ")
+if ('a' <= char <= 'z') or ('A' <= char <= 'Z'):
+    print(f"'{char}' is an alphabet.")
+else:
+     print(f"'{char}' is NOT an alphabet.")
